@@ -5,7 +5,7 @@ let animation = bodymovin.loadAnimation(
         rederer: 'svg',
         loop: true,
         autoplay: true,
-        path: './path'
+        path: './path/'
     }
 )
 
@@ -21,6 +21,6 @@ let animation = lottie.loadAnimation(
         rederer: 'svg',
         loop: true,
         autoplay: true,
-        path: './...'
+        path: './path/'
     }
 )
