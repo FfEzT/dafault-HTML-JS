@@ -5,7 +5,7 @@ let animation = bodymovin.loadAnimation(
         rederer: 'svg',
         loop: true,
         autoplay: true,
-        path: './...'
+        path: './path'
     }
 )
 
