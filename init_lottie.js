@@ -1,7 +1,7 @@
 // for web
 let animation = bodymovin.loadAnimation(
     {
-        container: document.getElementById('***'),
+        container: ___document_element,
         rederer: 'svg',
         loop: true,
         autoplay: true,
@@ -17,10 +17,10 @@ let lottie = require("lottie-web")
 
 let animation = lottie.loadAnimation(
     {
-        container: document.getElementById('***'),
+        container: ___document_element,
         rederer: 'svg',
         loop: true,
         autoplay: true,
-        path: '***.json'
+        path: './...'
     }
 )
